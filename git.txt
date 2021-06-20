@@ -5,3 +5,8 @@ Genel olarak "git init" komutundan önce ;
     -> git config --global user.email "Email Address"
 komutlarını çalıştırırız. Bu .git klasörü oluşurken senin bağlantılı olduğun isim ve email için gereklidir.
 Neden gereklidir? => Çünkü her attığın commit mesajında senin ismin ve email bilgin görünür. ( commit ne demek ilerde değilecek)
+
+
+
+
+
