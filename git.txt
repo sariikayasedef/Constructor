@@ -6,7 +6,10 @@ Genel olarak "git init" komutundan önce ;
 komutlarını çalıştırırız. Bu .git klasörü oluşurken senin bağlantılı olduğun isim ve email için gereklidir.
 Neden gereklidir? => Çünkü her attığın commit mesajında senin ismin ve email bilgin görünür. ( commit ne demek ilerde değilecek)
 
+commit mesajı yayımlamak için git commit -m "commit mesajı" komutunu girmek gerek.
+Yada vs cıde kullanıcıları "messages" kısmına "commit mesajı" nı yazıp daha sonra CTRL+ENTER yaparak da commitleyebilir.
 
+commitlenen değişiklikleri yukarıya atmak için "git push" komutu verilmelidir.
 
 
 
