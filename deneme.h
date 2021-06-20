@@ -3,6 +3,12 @@
 
 #include <stdint.h>
 
+
+
+
+
+
+
 #define MACRO   (uint8_t) 10U
 
 #endif
