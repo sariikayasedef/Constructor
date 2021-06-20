@@ -10,5 +10,6 @@
 
 #define MACRO3  (uint8_t) 30U 
 #define MACRO   (uint8_t) 40U
+#define MACRO   (uint8_t) 50U
 
 #endif
